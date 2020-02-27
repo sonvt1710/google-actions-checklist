@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/intentHandlers/googleActions/index.js"],"names":["templateHanders","authHandlers"],"mappings":";;;;;;;AAAA;;AACA;;;;;;;;;;iCAGIA,kB,MACAC,a","sourcesContent":["import templateHanders from './templates';\nimport authHandlers from './auth';\n\nexport default {\n\t...templateHanders,\n\t...authHandlers,\n};\n"],"file":"index.js"}
