@@ -23,7 +23,7 @@
     "ask-sdk-model": "^1.25.2",
     "ask-sdk-v1adapter": "^2.7.0",
     "dialogflow-fulfillment": "^0.5.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase-admin": "^8.6.0",
     "firebase-functions": "^3.3.0",
     "module-alias": "^2.2.2",
